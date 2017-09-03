@@ -1,5 +1,4 @@
 require_relative 'game'
-require 'byebug'
 class IlegalWordsGame < Game
 
   def name
