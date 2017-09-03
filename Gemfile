@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
-gem 'byebug'
+gem 'byebug', :group => :development
 gem 'telegram-bot-ruby'
